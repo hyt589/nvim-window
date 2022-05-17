@@ -1,3 +1,7 @@
+# DISCLAIMER
+
+I am not the author of this plugin! The original repo of this project is located here: https://gitlab.com/yorickpeterse/nvim-window.git
+
 # nvim-window
 
 A simple and opinionated NeoVim plugin for switching between windows in the
